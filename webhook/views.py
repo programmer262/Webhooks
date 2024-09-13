@@ -48,7 +48,7 @@ class SendWebhookMovie(View):
             },
                            {
                 "name":"Category",
-                "value":f"{message.category}/ 10 by IMDB",
+                "value":f"{message.category}",
                 "inline":True,
             },
                           
