@@ -28,7 +28,7 @@ defusedxml==0.7.1
 discord==2.3.2
 discord.py==2.4.0
 distlib==0.3.6
-Django==4.2.3
+Django==4.2.16
 django-cors-headers==4.3.1
 django-jazzmin==2.6.0
 django-model-utils==4.5.1
